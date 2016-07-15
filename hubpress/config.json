@@ -4,7 +4,19 @@
     "repositoryName": "rodriguezartav.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Roberto Rodriguez"
+  },
+  "socialnetwork": {
+    "email": "roberto@rodriguezartavia.com",
+    "twitter": "rodriguezartav",
+    "googleplus": "rodriguezartav",
+    "linkedin": "rodriguezartav",
+    "facebook": "rodriguezartav",
+    "instagram": "rodriguezartav",
+    "github": "rodriguezartav"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
